@@ -15,6 +15,6 @@
 
 ## Made with ♥ By [ Clean Coder](https://www.youtube.com/channel/UC2xOY-2-93WStshSy6MlIDg)
 
-[![Tausiful Haque](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/tausif39n)
+[![Tausiful Haque](https://i.pinimg.com/564x/fe/12/b5/fe12b55243204c554af2cac4bd818986.jpg)](https://github.com/tausif39n)
 
 MIT © [Tausiful Haque ](https://github.com/tausif39)
