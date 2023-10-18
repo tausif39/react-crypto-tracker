@@ -1,8 +1,9 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+
+[![136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468_cleanup (1)](https://github.com/tausif39/react-crypto-tracker/assets/91016348/9d372151-7b97-404f-86b1-82cc0dee43af)]
+()
 
 ## Demo
 #### Here is a working live demo :  https://crypto-hunter.netlify.app/
